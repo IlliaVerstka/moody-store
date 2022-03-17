@@ -1,0 +1,68 @@
+{
+   "products": [
+      {
+         "img": "img/top-rating/image-02.jpg",
+         "imgWebp": "img/top-rating/image-02.webp",
+         "title": "Ceramic<br> Egg Cup",
+         "rates": "3",
+         "price": "40$",
+         "link": ""
+      },
+      {
+         "img": "img/top-rating/image-06.jpg",
+         "imgWebp": "img/top-rating/image-06.webp",
+         "title": "2-pack Linen Napkins",
+         "rates": "3",
+         "price": "40$",
+         "link": ""
+      },
+      {
+         "img": "img/top-rating/image-09.jpg",
+         "imgWebp": "img/top-rating/image-09.webp",
+         "title": "Glazed Stoneware Plate",
+         "rates": "3",
+         "price": "40$",
+         "link": ""
+      },
+      {
+         "img": "img/top-rating/image-03.jpg",
+         "imgWebp": "img/top-rating/image-03.webp",
+         "title": "4-pack Ceramic Cups",
+         "rates": "3",
+         "price": "40$",
+         "link": ""
+      },
+      {
+         "img": "img/top-rating/image-07.jpg",
+         "imgWebp": "img/top-rating/image-07.webp",
+         "title": "Fluted Beverage Glass",
+         "rates": "3",
+         "price": "40$",
+         "link": ""
+      },
+      {
+         "img": "img/top-rating/image-05.jpg",
+         "imgWebp": "img/top-rating/image-05.webp",
+         "title": "Small<br> Bamboo Box",
+         "rates": "3",
+         "price": "40$",
+         "link": ""
+      },
+      {
+         "img": "img/top-rating/image-08.jpg",
+         "imgWebp": "img/top-rating/image-08.webp",
+         "title": "Metal Cutlery Basket",
+         "rates": "3",
+         "price": "40$",
+         "link": ""
+      },
+      {
+         "img": "img/top-rating/image-04.jpg",
+         "imgWebp": "img/top-rating/image-04.webp",
+         "title": "Twill<br> Seat Cushion",
+         "rates": "3",
+         "price": "40$",
+         "link": ""
+      }
+   ]
+}

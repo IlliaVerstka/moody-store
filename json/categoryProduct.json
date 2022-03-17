@@ -1,0 +1,28 @@
+{
+   "products": [
+      {
+         "img": "img/filter/image-01.jpg",
+         "imgWebp": "img/filter/image-01.webp",
+         "title": "Metal Photo Frame",
+         "colors": ["#9F9189", "#F2C94C"],
+         "price": "40$",
+         "link": ""
+      },
+      {
+         "img": "img/filter/image-01.jpg",
+         "imgWebp": "img/filter/image-01.webp",
+         "title": "Metal Photo Frame",
+         "colors": ["#9F9189", "#F2C94C"],
+         "price": "40$",
+         "link": ""
+      },
+      {
+         "img": "img/filter/image-01.jpg",
+         "imgWebp": "img/filter/image-01.webp",
+         "title": "Metal Photo Frame",
+         "colors": ["#9F9189", "#F2C94C"],
+         "price": "40$",
+         "link": ""
+      }
+   ]
+}
